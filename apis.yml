@@ -1,9 +1,26 @@
 aid: standard-intelligence
 name: Standard Intelligence
-description: 'Standard Intelligence is a company surfaced as a portfolio company of spark-capital and
-  added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Standard Intelligence (si.inc) is an aligned AGI research lab based in
+  San Francisco building AI models that explore and learn like humans do. Its work
+  includes hertz-dev, an open-source 8.5B-parameter autoregressive base model for interactive,
+  full-duplex conversational audio; a fully general computer-action model that navigates
+  websites, executes CAD sequences, and drives autonomously at 30 FPS; and The Heap,
+  a 30-petabyte data-storage system built in San Francisco for under $500,000. The
+  company has raised $75M from Sequoia and Spark Capital. It publishes research posts
+  and open-source code on GitHub but does not currently expose a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/standard-intelligence/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://si.inc/icon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ai
+- AGI
+- Artificial Intelligence
+- Machine Learning
+- Foundation Models
+- Speech AI
+- Research
+- Open Source
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +47,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/standard-intelligence-domain-security.yml
 - type: Website
   url: https://si.inc
+- type: Blog
+  url: https://si.inc/posts/
+- type: GitHubOrganization
+  url: https://github.com/Standard-Intelligence
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

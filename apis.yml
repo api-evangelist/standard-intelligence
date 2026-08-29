@@ -9,6 +9,17 @@ description: 'Standard Intelligence (si.inc) is an aligned AGI research lab base
   company has raised $75M from Sequoia and Spark Capital. It publishes research posts
   and open-source code on GitHub but does not currently expose a public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/standard-intelligence/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

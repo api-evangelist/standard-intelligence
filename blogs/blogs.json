@@ -2,20 +2,20 @@
   "repo": "standard-intelligence",
   "feeds": [
     {
-      "source": "https://si.inc/index.xml",
-      "feed_url": "https://si.inc/index.xml",
-      "title": "",
-      "saved": 0,
-      "method": "feed"
-    },
-    {
       "source": "https://si.inc",
       "feed_url": "https://si.inc/index.xml",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://si.inc/index.xml",
+      "feed_url": "https://si.inc/index.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     }
   ],
   "post_count": 4,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-09-06T19:17:18Z"
 }

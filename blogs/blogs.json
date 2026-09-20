@@ -3,19 +3,19 @@
   "feeds": [
     {
       "source": "https://si.inc",
-      "feed_url": "https://si.inc",
+      "feed_url": "https://si.inc/index.xml",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "discovered"
     },
     {
       "source": "https://si.inc/index.xml",
       "feed_url": "https://si.inc/index.xml",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "feed"
     }
   ],
   "post_count": 4,
-  "fetched": "2026-09-13T13:00:00Z"
+  "fetched": "2026-09-19T20:17:39Z"
 }

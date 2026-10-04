@@ -45,11 +45,11 @@ tags:
 - Company
 - Artificial Intelligence
 - AGI
-- Machine-Learning
+- Machine Learning
 - Foundation Models
 - Speech AI
 - Research
-- Open-Source
+- Open Source
 tags_raw:
 - Company
 - Ai
@@ -60,6 +60,8 @@ tags_raw:
 - Speech AI
 - Research
 - Open Source
+- Machine-Learning
+- Open-Source
 apis: []
 maintainers:
 - FN: Kin Lane
